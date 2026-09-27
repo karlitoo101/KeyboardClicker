@@ -1,0 +1,5 @@
+C:\Users\karlm\Downloads\KeyboardClicker\target\release\build\windows_x86_64_gnu-fcbbe5b51d2b2021\build_script_build-fcbbe5b51d2b2021.d: C:\Users\karlm\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows_x86_64_gnu-0.52.6\build.rs
+
+C:\Users\karlm\Downloads\KeyboardClicker\target\release\build\windows_x86_64_gnu-fcbbe5b51d2b2021\build_script_build-fcbbe5b51d2b2021.exe: C:\Users\karlm\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows_x86_64_gnu-0.52.6\build.rs
+
+C:\Users\karlm\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows_x86_64_gnu-0.52.6\build.rs:
